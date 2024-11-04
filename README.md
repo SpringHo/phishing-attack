@@ -1,2 +1,1 @@
-# phishingatk
 Phishing Attack Simulation
